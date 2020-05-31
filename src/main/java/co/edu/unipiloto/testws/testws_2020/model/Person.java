@@ -11,7 +11,7 @@ import javax.xml.bind.annotation.XmlType;
 
 /**
  *
- * @author Daniel
+ * @author Alejandro
  */
 @XmlRootElement(name = "person")
 @XmlType(propOrder={"id","fullname","age"})
